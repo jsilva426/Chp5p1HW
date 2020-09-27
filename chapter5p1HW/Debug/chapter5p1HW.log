@@ -1,0 +1,3 @@
+﻿  chapter5p1HW.cpp
+C:\Users\jacob\Documents\chapter5p1HW\chapter5p1HW.cpp(30,148): warning C4305: 'initializing': truncation from 'double' to 'float'
+  chapter5p1HW.vcxproj -> C:\Users\jacob\Documents\chapter5p1HW\Debug\chapter5p1HW.exe

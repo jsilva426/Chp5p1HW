@@ -1,0 +1,75 @@
+Input A String:
+This is a test of my program, it should remove all punctuation! it will ALSO REMOVE CAPITALS AND WHITE SPACE     !
+Sanatized string: thisisatestofmyprogramitshouldremoveallpunctuationitwillAlsoRemoveCapitalsAndWhiteSpace
+Comparing frequency
+Frequency of all letters in the string is:
+a : 7.86517 %
+b : 0 %
+c : 2.24719 %
+d : 2.24719 %
+e : 7.86517 %
+f : 1.1236 %
+g : 1.1236 %
+h : 3.37079 %
+i : 8.98876 %
+j : 0 %
+k : 0 %
+l : 7.86517 %
+m : 4.49438 %
+n : 3.37079 %
+o : 7.86517 %
+p : 4.49438 %
+q : 0 %
+r : 3.37079 %
+s : 6.74157 %
+t : 10.1124 %
+u : 3.37079 %
+v : 2.24719 %
+w : 1.1236 %
+x : 0 %
+y : 1.1236 %
+z : 0 %
+
+C:\Users\jacob\Documents\chapter5p1HW\Debug\chapter5p1HW.exe (process 3332) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+
+
+
+Input A String:
+mY NAME IS JACOB SILVA! THIS IS A TEST? DOES IT WORK; LETS find out.
+Sanatized string: myNameIsJacobSilvaThisIsATestDoesItWorkLetsfindout
+Comparing frequency
+>5% difference= s : 5.72 %
+Frequency of all letters in the string is:
+a : 6 %
+b : 2 %
+c : 2 %
+d : 2 %
+e : 8 %
+f : 2 %
+g : 0 %
+h : 2 %
+i : 6 %
+j : 0 %
+k : 2 %
+l : 2 %
+m : 4 %
+n : 2 %
+o : 8 %
+p : 0 %
+q : 0 %
+r : 2 %
+s : 12 %
+t : 8 %
+u : 2 %
+v : 2 %
+w : 0 %
+x : 0 %
+y : 2 %
+z : 0 %
+
+C:\Users\jacob\Documents\chapter5p1HW\Debug\chapter5p1HW.exe (process 17276) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
